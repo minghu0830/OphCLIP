@@ -1,2 +1,2 @@
 # OphCLIP
-We will open-source all code and models after the paper is accepted.
+We will open-source all code and checkpoints after the manuscript is accepted.
