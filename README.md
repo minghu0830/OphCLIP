@@ -9,3 +9,5 @@
 ## TO DO 
 - [ ] Release dataset
 - [ ] Release code and checkpoints
+
+ *Expected in mid-November*
